@@ -1,8 +1,7 @@
 # MBA Project - Cloud Cost Optimization in Essential Management
 
 ## About the Essential Management Team - Your Cloud Solution Partner
-Essential Management is dedicated IBM team, specializing in providing cutting-edge cloud offerings to enterprise customers across the globe. Our core mission is to simplify your cloud journey and empower your organization to thrive in the digital age.
-
+Essential Management is dedicated IBM team, specializing in providing cutting-edge cloud offerings to enterprise customers across the globe. The core mission of team is to simplify your cloud journey and empower your organization to thrive in the digital age.
 
 
 ## Problem Statement
