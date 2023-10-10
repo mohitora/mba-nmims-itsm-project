@@ -1,3 +1,5 @@
+# Project Report
+Enhancing Profitability and Cost Efficiency at Essential Management through Cloud Expenditure Optimization and New Offerings Development
 
 ## 1. Title of the project
 | Project Title | Enhancing Profitability and Cost Efficiency at Essential Management| 
@@ -28,36 +30,36 @@ MBA Student
 NMIMS
 ```
 
-# Project Report: Enhancing Profitability and Cost Efficiency at Essential Management through Cloud Expenditure Optimization and New Offerings Development
+
 
 ## Table of Contents:
 
 1. [Objective of the Project](#1-objective-of-the-project)
-2. [Scope of the Project](#2-scope-of-the-project)
-3. [Executive Summary](#3-executive-summary)
-4. [Methodology](#4-methodology)
+   - [Background](#background)
+   - [Objectives](#objectives)
+3. [Scope of the Project](#2-scope-of-the-project)
+4. [Executive Summary](#3-executive-summary)
+5. [Methodology](#4-methodology)
    - [Data Collection](#data-collection)
    - [Data Analysis](#data-analysis)
    - [Strategy Development](#strategy-development)
    - [Recommendation](#recommendation)
-5. [Data Collection and Analysis](#5-data-collection-and-analysis)
+6. [Data Collection and Analysis](#5-data-collection-and-analysis)
    - [Phase 1: Data Collection](#phase-1-data-collection)
    - [Phase 2: Data Analysis](#phase-2-data-analysis)
    - [Phase 3: Strategy Development](#phase-3-strategy-development)
    - [Phase 4: Recommendation](#phase-4-recommendation)
-6. [Findings](#6-findings)
+7. [Findings](#6-findings)
    - [Insights into Cloud Expenditure](#insights-into-cloud-expenditure)
    - [Factors Contributing to Cost Escalation](#factors-contributing-to-cost-escalation)
    - [Cost Reduction Strategies](#cost-reduction-strategies)
    - [New Cloud-Based Offerings](#new-cloud-based-offerings)
-7. [Suggestions/Recommendations](#7-suggestionsrecommendations)
+8. [Suggestions/Recommendations](#7-suggestionsrecommendations)
    - [Short-Term Recommendations](#short-term-recommendations)
    - [Long-Term Recommendations](#long-term-recommendations)
-8. [Bibliography](#8-bibliography)
+9. [Bibliography](#8-bibliography)
 
 ## 1. Objective of the Project:
-
-### Background:
 
 ### Background:
 
@@ -67,7 +69,7 @@ Essential Management's service portfolio is marked by its commitment to excellen
 
 1. **Provisioning of IBM Cloud-Based Products on Cloud of Their Choice:**
    
-   As an affiliate of IBM Expert Labs, Essential Management offers clients the invaluable advantage of provisioning IBM Cloud-based products on the cloud infrastructure of their choosing. This distinctive flexibility enables businesses to leverage the power of IBM's cutting-edge solutions while seamlessly integrating them into their preferred cloud platforms, such as AWS, Azure, Google Cloud, and others.
+   As an affiliate of IBM Expert Labs, Essential Management offers clients the invaluable advantage of provisioning IBM Cloud-based products on the cloud infrastructure of their choice. This distinctive flexibility enables businesses to leverage the power of IBM's cutting-edge solutions while seamlessly integrating them into their preferred cloud platforms, such as IBM-Cloud, AWS, Azure, Google Cloud, and others.
 
 2. **Data Security:**
 
@@ -79,13 +81,16 @@ Essential Management's service portfolio is marked by its commitment to excellen
 
 4. **Disaster Recovery Solutions:**
 
-   In collaboration with IBM Expert Labs, Essential Management designs and implements tailored disaster recovery solutions. These plans encompass backup, failover, and recovery strategies, ensuring business continuity even in the face of unforeseen events.
+  The Essential Management designs and implements tailored disaster recovery solutions. These plans encompass backup, failover, and recovery strategies, ensuring business continuity even in the face of unforeseen events.
 
 5. **24/7 Customer Support:**
 
    Essential Management's unwavering commitment to its clients extends beyond the initial setup. The company offers 24/7 customer support across all IT services, ensuring that clients have access to assistance whenever they need it. This responsive support model guarantees uninterrupted operations and instills confidence in clients.
 
 As a part of IBM Expert Labs, Essential Management not only upholds the highest standards of quality and innovation but also leverages IBM's vast resources and technological prowess to deliver exceptional value to its clients. This affiliation reinforces its standing as a leader in the IT services industry, providing strategic guidance and support to businesses worldwide. Clients can rest assured that their IT infrastructure, cloud-based applications, data security, and disaster recovery plans are in the capable hands of Essential Management, backed by the expertise of IBM Expert Labs.
+
+References : https://www.ibm.com/products/expertlabs
+https://www.ibm.com/products/expertlabs/managed-services
 
 
 ### Objectives:
