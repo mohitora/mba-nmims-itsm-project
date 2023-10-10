@@ -1,5 +1,5 @@
 
-
+## 1. Title of the project
 | Project Title | Enhancing Profitability and Cost Efficiency at Essential Management| 
 | :---: | :---: | 
 | Project Duration | 02 Oct 2023 to 30 Nov 2023 | 
@@ -7,50 +7,55 @@
 | Project Location | Global | 
 
 
-## Executive Summary:
+## 2. Acknowledgment:
+```
+I would like to express my sincere gratitude to all those who contributed to the successful completion of this project. This endeavor would not have been possible without the support, guidance, and collaboration of many individuals and organizations.
 
-This project aims to enhance the profitability and cost efficiency of Essential Management by gaining comprehensive insights into cloud expenditure, identifying factors contributing to cost escalation, and proposing strategies for cost reduction. Additionally, the project seeks to explore and recommend the development of new cloud-based offerings that maximize profit. Successful implementation will require close collaboration with the Day2 operation team and leadership.
+First and foremost, I would like to extend my heartfelt appreciation to Essential Management for providing the opportunity to work on this project and for granting us access to the necessary resources and data. Your commitment to enhancing efficiency and profitability through innovative cloud solutions has been an inspiration.
+
+I would like to express my deepest thanks to my faculty advisor, [Supervisor's Name], for their invaluable guidance, mentorship, and expertise throughout the project. Their insights and feedback have been instrumental in shaping this endeavor.
+
+I am also grateful to the Day2 operation team and leadership at Essential Management for their active involvement, cooperation, and willingness to share their insights and expertise. Your input has been crucial in understanding the intricacies of the organization and its cloud operations.
+
+I extend my appreciation to my fellow team members and colleagues who contributed to various aspects of this project. Your dedication, teamwork, and collaborative spirit have made this project a truly enriching experience.
+
+Last but not least, I want to thank my family and friends for their unwavering support and encouragement during this journey. Your belief in me has been a constant source of motivation.
+
+This project has been a rewarding learning experience, and I am grateful to everyone who played a role, no matter how small, in its successful completion.
+
+MOHIT ARORA
+MBA Student
+NMIMS
+```
+
+# Project Report: Enhancing Profitability and Cost Efficiency at Essential Management through Cloud Expenditure Optimization and New Offerings Development
 
 ## Table of Contents:
 
-1. [Introduction](#1-introduction)
-   - [Background](#background)
-   - [Objectives](#objectives)
-   - [Scope of Work](#scope-of-work)
-
-2. [Methodology](#2-methodology)
+1. [Objective of the Project](#1-objective-of-the-project)
+2. [Scope of the Project](#2-scope-of-the-project)
+3. [Executive Summary](#3-executive-summary)
+4. [Methodology](#4-methodology)
    - [Data Collection](#data-collection)
    - [Data Analysis](#data-analysis)
    - [Strategy Development](#strategy-development)
    - [Recommendation](#recommendation)
-
-3. [Project Progress](#3-project-progress)
+5. [Data Collection and Analysis](#5-data-collection-and-analysis)
    - [Phase 1: Data Collection](#phase-1-data-collection)
    - [Phase 2: Data Analysis](#phase-2-data-analysis)
    - [Phase 3: Strategy Development](#phase-3-strategy-development)
    - [Phase 4: Recommendation](#phase-4-recommendation)
-
-4. [Findings](#4-findings)
+6. [Findings](#6-findings)
    - [Insights into Cloud Expenditure](#insights-into-cloud-expenditure)
    - [Factors Contributing to Cost Escalation](#factors-contributing-to-cost-escalation)
    - [Cost Reduction Strategies](#cost-reduction-strategies)
    - [New Cloud-Based Offerings](#new-cloud-based-offerings)
-
-5. [Recommendations](#5-recommendations)
+7. [Suggestions/Recommendations](#7-suggestionsrecommendations)
    - [Short-Term Recommendations](#short-term-recommendations)
    - [Long-Term Recommendations](#long-term-recommendations)
+8. [Bibliography](#8-bibliography)
 
-6. [Implementation Plan](#6-implementation-plan)
-   - [Timeline](#timeline)
-   - [Resource Allocation](#resource-allocation)
-   - [Key Stakeholders](#key-stakeholders)
-
-7. [Conclusion](#7-conclusion)
-   - [Summary of Achievements](#summary-of-achievements)
-   - [Importance of Project](#importance-of-project)
-   - [Future Considerations](#future-considerations)
-
-## 1. Introduction:
+## 1. Objective of the Project:
 
 ### Background:
 
@@ -65,7 +70,7 @@ The primary objectives of this project are as follows:
 - Develop strategies to reduce cloud expenditure while maintaining operational efficiency.
 - Explore and recommend new cloud-based offerings that can maximize profit.
 
-### Scope of Work:
+## 2. Scope of the Project:
 
 This project's scope encompasses the analysis of cloud expenditure and its optimization, as well as the exploration of new offerings. It includes:
 
@@ -75,7 +80,11 @@ This project's scope encompasses the analysis of cloud expenditure and its optim
 - Recommending new cloud-based offerings that align with Essential Management's core competencies.
 - Collaborating closely with the Day2 operation team and leadership for effective implementation.
 
-## 2. Methodology:
+## 3. Executive Summary:
+
+This project aims to enhance the profitability and cost efficiency of Essential Management by gaining comprehensive insights into cloud expenditure, identifying factors contributing to cost escalation, and proposing strategies for cost reduction. Additionally, the project seeks to explore and recommend the development of new cloud-based offerings that maximize profit. Successful implementation will require close collaboration with the Day2 operation team and leadership.
+
+## 4. Methodology:
 
 ### Data Collection:
 
@@ -93,7 +102,7 @@ Based on the data analysis, strategies for cost reduction will be developed. The
 
 The project will conclude with recommendations for immediate and long-term actions. These recommendations will aim to enhance profitability through cost optimization and the development of new cloud-based offerings.
 
-## 3. Project Progress:
+## 5. Data Collection and Analysis:
 
 ### Phase 1: Data Collection:
 
@@ -111,7 +120,7 @@ Once data analysis is completed, the project team will develop strategies for co
 
 The final phase will involve preparing comprehensive recommendations for Essential Management, which will include short-term and long-term action plans. Recommendations will be presented to the client on [Date].
 
-## 4. Findings:
+## 6. Findings:
 
 ### Insights into Cloud Expenditure:
 
@@ -129,7 +138,7 @@ The project will propose cost reduction strategies, which may include optimizing
 
 The project will explore opportunities for developing new cloud-based offerings that align with Essential Management's business goals and market demand.
 
-## 5. Recommendations:
+## 7. Suggestions/Recommendations:
 
 ### Short-Term Recommendations:
 
@@ -139,34 +148,7 @@ Short-term recommendations will focus on immediate actions to optimize cloud exp
 
 Long-term recommendations will outline strategies for sustained cost efficiency and the development of new cloud-based offerings.
 
-## 6. Implementation Plan:
+## 8. Bibliography:
 
-### Timeline:
+[Include your bibliography here, if applicable.]
 
-An implementation timeline will be provided, indicating when each recommendation is to be executed.
-
-### Resource Allocation:
-
-The allocation of resources, both human and financial, will be outlined to support the implementation of recommendations.
-
-### Key Stakeholders:
-
-Identifying key stakeholders and their roles in the implementation process will be a crucial part of the plan.
-
-## 7. Conclusion:
-
-### Summary of Achievements:
-
-This project aims to enhance Essential Management's profitability and cost efficiency through cloud expenditure optimization and new offerings development.
-
-### Importance of Project:
-
-The successful implementation of the project's recommendations will enable Essential Management to maintain competitiveness, reduce operational costs, and explore new revenue streams in the rapidly evolving cloud landscape.
-
-### Future Considerations:
-
-The project's findings and recommendations will serve as a foundation for future strategic decisions related to cloud technology and business development.
-
-## Appendix:
-
-[Include any additional documents or data related to the project.]
