@@ -104,13 +104,33 @@ The primary objectives of this project are as follows:
 
 ## 2. Scope of the Project:
 
-This project's scope encompasses the analysis of cloud expenditure and its optimization, as well as the exploration of new offerings. It includes:
+The scope of this project is extensive, encompassing various facets of Essential Management's operations and cloud services. The project aims to address the following key areas:
 
-- Collecting and analyzing data related to cloud expenditure.
-- Identifying areas of cost escalation and inefficiency.
-- Developing cost reduction strategies.
-- Recommending new cloud-based offerings that align with Essential Management's core competencies.
-- Collaborating closely with the Day2 operation team and leadership for effective implementation.
+### 2.1 Cloud Expenditure Analysis:
+
+- **Comprehensive Data Collection:** The project will involve collecting a wide array of data related to cloud expenditure, including usage patterns, billing details, and cost allocation across different cloud services and platforms.
+
+- **Data Segmentation:** Data will be segmented to provide insights into various aspects of cloud expenditure, such as service-level costs, resource spending, and cost trends over time.
+
+- **Cost Allocation Assessment:** In-depth analysis of cost allocation methodologies will be conducted to ensure accurate attribution of cloud expenses to specific business units or projects.
+
+### 2.2 Cost Reduction Strategies:
+
+- **Identification of Cost Drivers:** The project will identify the key factors contributing to the escalation of cloud-related costs. This includes pinpointing inefficiencies, underutilized resources, and areas of potential optimization.
+
+- **Strategy Development:** Based on data analysis, the project team will develop a range of cost reduction strategies. These strategies may involve optimizing resource allocation, selecting cost-effective cloud services, rightsizing instances, and implementing best practices for cloud cost management.
+
+- **Recommendations:** The project will conclude with actionable recommendations designed to drive cost efficiency while maintaining operational effectiveness. Short-term and long-term strategies will be proposed to cater to immediate needs and long-term sustainability.
+
+### 2.3 New Cloud-Based Offerings Development:
+
+- **Market Analysis:** To maximize profit and expand Essential Management's service portfolio, the project will involve an in-depth analysis of the cloud services market. This analysis will identify emerging trends, customer demands, and competitive landscapes.
+
+- **Strategic Alignment:** The project will explore opportunities for the development of new cloud-based offerings that align with Essential Management's core competencies and strategic goals. These offerings will be designed to meet the evolving needs of clients and the market.
+
+- **Feasibility Assessment:** Feasibility studies will be conducted to evaluate the technical, financial, and operational viability of new cloud-based offerings. This assessment will consider factors such as resource requirements, market potential, and ROI projections.
+
+The scope of this project is designed to provide Essential Management with a holistic view of its cloud expenditure, cost optimization opportunities, and strategies for profit maximization through new cloud-based offerings. By addressing these critical aspects, the project aims to enhance Essential Management's overall profitability, cost efficiency, and competitiveness in the rapidly evolving cloud services landscape.
 
 ## 3. Executive Summary:
 
