@@ -136,6 +136,8 @@ The scope of this project is designed to provide Essential Management with a hol
 
 This project aims to enhance the profitability and cost efficiency of Essential Management by gaining comprehensive insights into cloud expenditure, identifying factors contributing to cost escalation, and proposing strategies for cost reduction. Additionally, the project seeks to explore and recommend the development of new cloud-based offerings that maximize profit. Successful implementation will require close collaboration with the Day2 operation team and leadership.
 
+< THIS SECTION NEEDS TO BE UPDATED BASED ON FINDING ( 2-3 Page of Executive Summary report on findings)>
+
 ## 4. Methodology:
 
 ### Data Collection:
