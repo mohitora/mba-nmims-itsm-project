@@ -1,1 +1,1 @@
-
+This data folder list the set of csv generated, specifically  for the analysis of cloud spending patterns. The contained CSV files serve as valuable datasets that drive insights and inform decisions related to the optimization of cloud resources.
